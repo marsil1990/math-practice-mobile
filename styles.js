@@ -1,6 +1,6 @@
 import { StyleSheet } from "react-native";
 
-// Define shared styles for the app's layout and UI elements.
+//Define shared styles for the app's layout and UI elements.
 const styles = StyleSheet.create({
   // Center the content and add space between elements.
   container: {
@@ -8,7 +8,7 @@ const styles = StyleSheet.create({
     backgroundColor: "#fff",
     alignItems: "center",
     justifyContent: "center",
-    gap: 20,
+    gap: 40,
     padding: 24,
   },
 
@@ -31,7 +31,7 @@ const styles = StyleSheet.create({
     borderColor: "#666",
     borderRadius: 8,
     padding: 12,
-    fontSize: 20,
+    fontSize: 30,
     textAlign: "center",
   },
 
